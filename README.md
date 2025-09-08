@@ -1,5 +1,5 @@
 # Capstone-Module-2-JCBDAAH-003---Risman-Ariska-Sultani
-Project ini adalah salah satu output dari hasil proses pembelajaran programming fundamental pada modul 2 (python) Purwadhika Digital Technology School, yaitu membuat aplikasi CRUD sederhana dengan case study Penjualan Toko. Untuk project ini saya menamakannya dengan "Aplikasi Penjualan Toko Joko Wiyoko"
+Project ini adalah salah satu output dari hasil proses pembelajaran programming fundamental pada modul 2 (python) Purwadhika Digital Technology School, yaitu membuat aplikasi CRUD sederhana dengan case study Penjualan Toko. Untuk project ini saya menamakannya dengan nama"Aplikasi Penjualan Toko Joko Wiyoko".
 
 Berikut fungsi aplikasi CRUD dari project yang saya buat.
 
